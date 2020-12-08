@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/m-abe-dev/typescript-practice/issues"
   },
-  "homepage": "https://github.com/m-abe-dev/typescript-practice#readme"
+  "homepage": "https://github.com/m-abe-dev/typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
